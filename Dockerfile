@@ -1,4 +1,3 @@
-# DOCKER-VERSION 1.7.0 AUTHOR
 FROM ubuntu:14.04
 MAINTAINER jdorrance
 ENV ER="17.03.0-ce"
